@@ -1,0 +1,7 @@
+color:  #ffffff;
+color:  #444444;
+color:  #666666;
+color:  #26D8C0;
+color:  #25DEBE;
+color:  #BEF4ED;
+color:  #FD625F;
